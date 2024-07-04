@@ -1,0 +1,294 @@
+<div style="width: 360px; height: 800px; padding-left: 26px; padding-right: 26px; padding-top: 140px; padding-bottom: 140px; background: white; flex-direction: column; justify-content: flex-start; align-items: center; gap: 64px; display: inline-flex">
+  <div style="width: 3px; height: 18px; position: relative"></div>
+  <div style="color: black; font-size: 24px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">AquaVisor</div>
+  <img style="width: 308.22px; height: 250px" src="https://via.placeholder.com/308x250" />
+</div>
+<div style="width: 360px; height: 800px; position: relative; background: white">
+  <img style="width: 170px; height: 156.40px; left: 95px; top: 158px; position: absolute" src="https://via.placeholder.com/170x156" />
+  <div style="left: 106px; top: 86px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Iniciar sesión</div>
+  <div style="width: 300px; height: 40px; left: 30px; top: 410px; position: absolute; background: #E0E0E0; border-radius: 10px"></div>
+  <div style="width: 300px; height: 40px; left: 30px; top: 484px; position: absolute; background: #D9D9D9; border-radius: 10px"></div>
+  <div style="width: 300px; height: 40px; left: 30px; top: 560px; position: absolute; background: #D9D9D9; border-radius: 10px"></div>
+  <div style="width: 300px; height: 40px; left: 30px; top: 634px; position: absolute; background: #D9D9D9; border-radius: 10px"></div>
+  <img style="width: 35px; height: 35.76px; left: 55px; top: 636px; position: absolute" src="https://via.placeholder.com/35x36" />
+  <div style="width: 206px; height: 15px; left: 113px; top: 646px; position: absolute; color: black; font-size: 14px; font-family: Inter; font-weight: 400; line-height: 14px; word-wrap: break-word">Ingresar con cuenta Google</div>
+  <div style="width: 58px; height: 17px; left: 151px; top: 571px; position: absolute; color: black; font-size: 14px; font-family: Inter; font-weight: 400; line-height: 14px; word-wrap: break-word">Ingresar</div>
+  <div style="width: 113px; height: 22px; left: 44px; top: 500px; position: absolute; color: black; font-size: 14px; font-family: Inter; font-weight: 400; line-height: 14px; word-wrap: break-word">**************</div>
+  <div style="width: 86px; height: 17px; left: 44px; top: 462px; position: absolute; color: black; font-size: 14px; font-family: Inter; font-weight: 400; line-height: 14px; word-wrap: break-word">Contraseña</div>
+  <div style="width: 132px; height: 19px; left: 44px; top: 386px; position: absolute; color: black; font-size: 14px; font-family: Inter; font-weight: 400; line-height: 14px; word-wrap: break-word">Correo electronico</div>
+  <div style="width: 163px; height: 15px; left: 98px; top: 704px; position: absolute; color: #094AF2; font-size: 14px; font-family: Inter; font-weight: 400; line-height: 14px; word-wrap: break-word">Crear una cuenta nueva</div>
+</div>
+<div style="width: 360px; height: 800px; position: relative; background: white">
+  <img style="width: 246.58px; height: 200px; left: 57px; top: 133px; position: absolute" src="https://via.placeholder.com/247x200" />
+  <div style="width: 100px; height: 100px; left: 130px; top: 471px; position: absolute; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)">
+    <div style="width: 83.33px; height: 83.33px; left: 8.33px; top: 8.33px; position: absolute; border: 4px #B2AFCC solid"></div>
+  </div>
+  <div style="left: 147px; top: 600px; position: absolute; color: #B2AFCC; font-size: 14px; font-family: Inter; font-weight: 400; line-height: 14px; word-wrap: break-word">Cargando</div>
+</div>
+<div style="width: 360px; height: 800px; position: relative; background: white">
+  <div style="width: 360px; height: 68px; padding-left: 4px; padding-right: 4px; padding-top: 8px; padding-bottom: 8px; left: 0px; top: 0px; position: absolute; background: #B4DADB; justify-content: flex-start; align-items: center; gap: 6px; display: inline-flex">
+    <div style="width: 48px; height: 48px; flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+      <div style="border-radius: 100px; overflow: hidden; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+        <div style="padding: 8px; justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="width: 24px; height: 24px; position: relative">
+            <div style="width: 18px; height: 12px; left: 3px; top: 6px; position: absolute; background: #1D1B20"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="flex: 1 1 0; text-align: center; color: #1D1B20; font-size: 22px; font-family: Roboto; font-weight: 400; line-height: 28px; word-wrap: break-word">AquaVisor</div>
+    <div style="width: 48px; height: 48px; flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+      <div style="border-radius: 100px; overflow: hidden; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+        <div style="padding: 8px; justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="width: 24px; height: 24px; position: relative">
+            <div style="width: 20px; height: 20px; left: 2px; top: 2px; position: absolute; background: #49454F"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 55px; height: 55px; left: 153px; top: 702px; position: absolute">
+    <div style="width: 45.83px; height: 45.83px; left: 4.58px; top: 4.58px; position: absolute; background: #B2AFCC"></div>
+  </div>
+  <div style="width: 314px; height: 289px; left: 23px; top: 92px; position: absolute; background: white"></div>
+  <div style="width: 314px; height: 289.49px; left: 23px; top: 92px; position: absolute">
+    <div style="width: 314px; height: 289.49px; left: 0px; top: 0px; position: absolute; background: #F2F1F7"></div>
+    <div style="width: 316.13px; height: 291.16px; left: -1.06px; top: -0.83px; position: absolute; background: #F2F1F7"></div>
+    <div style="width: 200px; height: 31px; left: 17px; top: 225px; position: absolute; color: black; font-size: 22px; font-family: Roboto; font-weight: 400; line-height: 28px; word-wrap: break-word">Tursiops truncatus<br/><br/></div>
+  </div>
+  <div style="width: 314px; height: 289px; left: 23px; top: 402px; position: absolute; background: white"></div>
+  <div style="width: 314px; height: 289.49px; left: 23px; top: 401.51px; position: absolute">
+    <div style="width: 314px; height: 289.49px; left: 0px; top: 0px; position: absolute; background: #F2F1F7"></div>
+    <div style="width: 316.13px; height: 291.16px; left: -1.06px; top: -0.83px; position: absolute; background: #F2F1F7"></div>
+    <div style="width: 200px; height: 31px; left: 17px; top: 226.49px; position: absolute; color: black; font-size: 22px; font-family: Roboto; font-weight: 400; line-height: 28px; word-wrap: break-word">Gobius niger<br/><br/></div>
+  </div>
+  <img style="width: 280px; height: 189px; left: 40px; top: 115px; position: absolute" src="https://via.placeholder.com/280x189" />
+  <img style="width: 280px; height: 199.73px; left: 40px; top: 421px; position: absolute" src="https://via.placeholder.com/280x200" />
+</div>
+<div style="width: 360px; height: 800px; position: relative; background: white">
+  <div style="width: 360px; height: 68px; padding-left: 4px; padding-right: 4px; padding-top: 8px; padding-bottom: 8px; left: 0px; top: 0px; position: absolute; background: #B4DADB; justify-content: flex-start; align-items: center; gap: 6px; display: inline-flex">
+    <div style="width: 48px; height: 48px; flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+      <div style="border-radius: 100px; overflow: hidden; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+        <div style="padding: 8px; justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="width: 24px; height: 24px; position: relative">
+            <div style="width: 18px; height: 12px; left: 3px; top: 6px; position: absolute; background: #1D1B20"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="flex: 1 1 0; text-align: center; color: #1D1B20; font-size: 22px; font-family: Roboto; font-weight: 400; line-height: 28px; word-wrap: break-word">AquaVisor</div>
+    <div style="width: 48px; height: 48px; flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+      <div style="border-radius: 100px; overflow: hidden; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+        <div style="padding: 8px; justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="width: 24px; height: 24px; position: relative">
+            <div style="width: 20px; height: 20px; left: 2px; top: 2px; position: absolute; background: #49454F"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <img style="width: 361px; height: 576px; left: -1px; top: 68px; position: absolute" src="https://via.placeholder.com/361x576" />
+  <div style="width: 94px; height: 94px; padding: 7px; left: 133px; top: 550px; position: absolute; backdrop-filter: blur(40px); flex-direction: column; justify-content: center; align-items: center; display: inline-flex">
+    <div style="width: 58px; height: 55.39px; position: relative">
+      <img style="width: 58px; height: 58px; left: 0px; top: 0px; position: absolute; border-radius: 1000px; backdrop-filter: blur(50px)" src="https://via.placeholder.com/58x58" />
+      <img style="width: 58px; height: 58px; left: 0px; top: -0px; position: absolute" src="https://via.placeholder.com/58x58" />
+      <div style="width: 58px; height: 58px; left: 0px; top: 0px; position: absolute; text-align: center; color: #6493AD; font-size: 19px; font-family: SF Pro; font-weight: 590; line-height: 28px; word-wrap: break-word">􀿫</div>
+    </div>
+  </div>
+  <img style="width: 112px; height: 106px; left: 11px; top: 679px; position: absolute" src="https://via.placeholder.com/112x106" />
+  <img style="width: 122px; height: 106px; left: 137px; top: 679px; position: absolute" src="https://via.placeholder.com/122x106" />
+  <img style="width: 118px; height: 111px; left: 273px; top: 676px; position: absolute" src="https://via.placeholder.com/118x111" />
+</div>
+<div style="width: 360px; height: 800px; position: relative; background: white">
+  <div style="width: 360px; height: 68px; padding-left: 4px; padding-right: 4px; padding-top: 8px; padding-bottom: 8px; left: 0px; top: 0px; position: absolute; background: #B4DADB; justify-content: flex-start; align-items: center; gap: 6px; display: inline-flex">
+    <div style="width: 48px; height: 48px; flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+      <div style="border-radius: 100px; overflow: hidden; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+        <div style="padding: 8px; justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="width: 24px; height: 24px; position: relative">
+            <div style="width: 18px; height: 12px; left: 3px; top: 6px; position: absolute; background: #1D1B20"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="flex: 1 1 0; text-align: center; color: #1D1B20; font-size: 22px; font-family: Roboto; font-weight: 400; line-height: 28px; word-wrap: break-word">AquaVisor</div>
+    <div style="width: 48px; height: 48px; flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+      <div style="border-radius: 100px; overflow: hidden; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+        <div style="padding: 8px; justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="width: 24px; height: 24px; position: relative">
+            <div style="width: 20px; height: 20px; left: 2px; top: 2px; position: absolute; background: #49454F"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 100px; height: 100px; left: 130px; top: 616px; position: absolute; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)">
+    <div style="width: 83.33px; height: 83.33px; left: 8.33px; top: 8.33px; position: absolute; border: 4px #B2AFCC solid"></div>
+  </div>
+  <div style="left: 147px; top: 745px; position: absolute; color: #B2AFCC; font-size: 14px; font-family: Inter; font-weight: 400; line-height: 14px; word-wrap: break-word">Cargando</div>
+  <img style="width: 360px; height: 534px; left: 0px; top: 68px; position: absolute" src="https://via.placeholder.com/360x534" />
+</div>
+<div style="width: 360px; height: 800px; position: relative; background: white">
+  <div style="width: 360px; height: 68px; padding-left: 4px; padding-right: 4px; padding-top: 8px; padding-bottom: 8px; left: 0px; top: 0px; position: absolute; background: #B4DADB; justify-content: flex-start; align-items: center; gap: 6px; display: inline-flex">
+    <div style="width: 48px; height: 48px; flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+      <div style="border-radius: 100px; overflow: hidden; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+        <div style="padding: 8px; justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="width: 24px; height: 24px; padding-left: 3px; padding-right: 3px; padding-top: 6px; padding-bottom: 6px; justify-content: center; align-items: center; display: flex">
+            <div style="width: 18px; height: 12px; background: #1D1B20"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="flex: 1 1 0; text-align: center; color: #1D1B20; font-size: 22px; font-family: Roboto; font-weight: 400; line-height: 28px; word-wrap: break-word">AquaVisor</div>
+    <div style="width: 48px; height: 48px; flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+      <div style="border-radius: 100px; overflow: hidden; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+        <div style="padding: 8px; justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="width: 24px; height: 24px; padding: 2px; justify-content: center; align-items: center; display: flex">
+            <div style="width: 20px; height: 20px; background: #49454F"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 333px; height: 373px; left: 19px; top: 361px; position: absolute; text-align: justify; color: black; font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 20px; letter-spacing: 0.10px; word-wrap: break-word">Nombre científico: Globicephala macrorhynchus<br/><br/>Las ballenas piloto, también conocidas como "calderones" son cetáceos odontocetos (con dientes), parientes de la familia Delphinidae. <br/><br/>Cabeza: Es una estructura globosa y prominente en la parte frontal y sirve principalmente como un órgano acústico clave para la exploración.<br/><br/>Tamaño: los machos pueden medir entre 5.5 y 7.5 metros de longitud y las hembras son más pequeñas, midiendo entre 4.5 y 5.7 metros.<br/><br/>Peso: En los machos rondan los 2,000 a 3,000 kg y las hembras de 1,200 a 2,000.   <br/></div>
+  <div style="width: 48px; height: 48px; padding-top: 4px; padding-bottom: 4px; padding-left: 4px; padding-right: 4.63px; left: 291px; top: 729px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div style="width: 39.37px; height: 40px; border: 4px #B2AFCC solid"></div>
+  </div>
+  <div style="width: 48px; height: 48px; padding-top: 4px; padding-bottom: 4px; padding-left: 4.63px; padding-right: 4px; left: 199px; top: 732px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div style="width: 39.37px; height: 40px; border: 4px #B2AFCC solid"></div>
+  </div>
+  <div style="width: 48px; height: 48px; padding-top: 2px; padding-bottom: 4.14px; padding-left: 4.22px; padding-right: 2px; left: 107px; top: 733px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div style="width: 41.78px; height: 41.86px; border: 4px #B2AFCC solid"></div>
+  </div>
+  <div style="width: 48px; height: 48px; padding-left: 6px; padding-right: 6px; padding-top: 4px; padding-bottom: 4px; left: 25px; top: 729px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div style="width: 36px; height: 40px; border: 4px #B2AFCC solid"></div>
+  </div>
+  <img style="width: 267px; height: 203px; left: 49px; top: 113px; position: absolute" src="https://via.placeholder.com/267x203" />
+</div>
+<div style="width: 360px; height: 800px; position: relative; background: white">
+  <div style="width: 360px; height: 68px; padding-left: 4px; padding-right: 4px; padding-top: 8px; padding-bottom: 8px; left: 0px; top: 0px; position: absolute; background: #B4DADB; justify-content: flex-start; align-items: center; gap: 6px; display: inline-flex">
+    <div style="width: 48px; height: 48px; flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+      <div style="border-radius: 100px; overflow: hidden; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+        <div style="padding: 8px; justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="width: 24px; height: 24px; padding-left: 3px; padding-right: 3px; padding-top: 6px; padding-bottom: 6px; justify-content: center; align-items: center; display: flex">
+            <div style="width: 18px; height: 12px; background: #1D1B20"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="flex: 1 1 0; text-align: center; color: #1D1B20; font-size: 22px; font-family: Roboto; font-weight: 400; line-height: 28px; word-wrap: break-word">AquaVisor</div>
+    <div style="width: 48px; height: 48px; flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+      <div style="border-radius: 100px; overflow: hidden; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+        <div style="padding: 8px; justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="width: 24px; height: 24px; padding: 2px; justify-content: center; align-items: center; display: flex">
+            <div style="width: 20px; height: 20px; background: #49454F"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 333px; height: 373px; left: 19px; top: 362px; position: absolute; text-align: justify; color: black; font-size: 22px; font-family: Roboto; font-weight: 400; line-height: 28px; word-wrap: break-word">Telefonos<br/><br/>Todo tipo de emergencias- 122<br/><br/>SECAC (sociedad para el estudio de los cetáceos en el Archipiélago Canario)- (+34) 928607101<br/><br/>Fundación CRAM - (+34) 931010170.  (Catalana)</div>
+  <div style="width: 48px; height: 48px; padding-left: 6px; padding-right: 6px; padding-top: 4px; padding-bottom: 4px; left: 156px; top: 711px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div style="width: 36px; height: 40px; border: 4px #B2AFCC solid"></div>
+  </div>
+  <img style="width: 214px; height: 176px; left: 73px; top: 127px; position: absolute" src="https://via.placeholder.com/214x176" />
+</div>
+<div style="width: 360px; height: 800px; position: relative; background: white">
+  <div style="width: 360px; height: 68px; padding-left: 4px; padding-right: 4px; padding-top: 8px; padding-bottom: 8px; left: 0px; top: 0px; position: absolute; background: #B4DADB; justify-content: flex-start; align-items: center; gap: 6px; display: inline-flex">
+    <div style="width: 48px; height: 48px; flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+      <div style="border-radius: 100px; overflow: hidden; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+        <div style="padding: 8px; justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="width: 24px; height: 24px; padding-left: 3px; padding-right: 3px; padding-top: 6px; padding-bottom: 6px; justify-content: center; align-items: center; display: flex">
+            <div style="width: 18px; height: 12px; background: #1D1B20"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <img style="width: 233px; height: 255px; left: 63px; top: 101px; position: absolute" src="https://via.placeholder.com/233x255" />
+  <div style="width: 300px; height: 40px; left: 30px; top: 691px; position: absolute; background: #E0E0E0; border-radius: 10px"></div>
+  <div style="left: 158px; top: 697px; position: absolute; text-align: center; color: black; font-size: 22px; font-family: Roboto; font-weight: 400; line-height: 28px; word-wrap: break-word">Salir</div>
+  <div style="width: 40px; height: 40px; padding-left: 3.25px; padding-right: 3.25px; padding-top: 3.33px; padding-bottom: 3.33px; left: 44px; top: 487px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div style="width: 33.50px; height: 33.33px; background: #1D1B20"></div>
+  </div>
+  <div style="width: 40px; height: 40px; padding: 3.33px; left: 47px; top: 589px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div style="width: 33.33px; height: 33.33px; background: #1D1B20"></div>
+  </div>
+  <div style="width: 20px; height: 20px; padding-left: 2.50px; padding-right: 2.50px; padding-top: 1.67px; padding-bottom: 1.67px; left: 316px; top: 19px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div style="width: 15px; height: 16.67px; border: 4px #1E1E1E solid"></div>
+  </div>
+  <div style="left: 129px; top: 20px; position: absolute; text-align: center; color: black; font-size: 22px; font-family: Roboto; font-weight: 400; line-height: 28px; word-wrap: break-word">AquaVisor</div>
+  <div style="width: 80px; height: 31px; left: 118px; top: 384px; position: absolute; color: black; font-size: 22px; font-family: Roboto; font-weight: 400; line-height: 28px; word-wrap: break-word">Usuario<br/><br/></div>
+  <div style="width: 48px; height: 48px; padding-left: 8px; padding-right: 8px; padding-top: 6px; padding-bottom: 6px; left: 44px; top: 376px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div style="width: 32px; height: 36px; border: 4px #1E1E1E solid"></div>
+  </div>
+  <div style="width: 144px; height: 31px; left: 118px; top: 491px; position: absolute; color: black; font-size: 22px; font-family: Roboto; font-weight: 400; line-height: 28px; word-wrap: break-word">Configuración</div>
+  <div style="width: 167px; height: 31px; left: 118px; top: 591px; position: absolute; color: black; font-size: 22px; font-family: Roboto; font-weight: 400; line-height: 28px; word-wrap: break-word">Redes Sociales</div>
+</div>
+<div style="width: 360px; height: 800px; position: relative; background: white">
+  <div style="width: 360px; height: 68px; padding-left: 4px; padding-right: 4px; padding-top: 8px; padding-bottom: 8px; left: 0px; top: 0px; position: absolute; background: #B4DADB; justify-content: flex-start; align-items: center; gap: 6px; display: inline-flex">
+    <div style="width: 48px; height: 48px; flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+      <div style="border-radius: 100px; overflow: hidden; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+        <div style="padding: 8px; justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="width: 24px; height: 24px; padding-left: 3px; padding-right: 3px; padding-top: 6px; padding-bottom: 6px; justify-content: center; align-items: center; display: flex">
+            <div style="width: 18px; height: 12px; background: #1D1B20"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="flex: 1 1 0; text-align: center; color: #1D1B20; font-size: 22px; font-family: Roboto; font-weight: 400; line-height: 28px; word-wrap: break-word">AquaVisor</div>
+    <div style="width: 48px; height: 48px; flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+      <div style="border-radius: 100px; overflow: hidden; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+        <div style="padding: 8px; justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="width: 24px; height: 24px; padding: 2px; justify-content: center; align-items: center; display: flex">
+            <div style="width: 20px; height: 20px; background: #49454F"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 333px; height: 373px; left: 19px; top: 361px; position: absolute; text-align: justify; color: black; font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 20px; letter-spacing: 0.10px; word-wrap: break-word">Nombre Científico: Tursiops truncatus  <br/><br/>El delfín mular o también conocido como nariz de botella,   es una especie de cetáceo odontoceto de la familia <br/><br/>Cabeza: Poseen un rostro alargado que se asemeja a una botella, de ahí su nombre "nariz de botella". Tienen un organismo llamado melón en la frente que utiliza para la ecolocación.   <br/><br/>Tamaño: Los delfines suelen medir entre 2 y 4 metros de longitud. Los machos tienden a ser más grandes.   <br/><br/>Peso: Su peso pude variar entre 150 y 650 kg, dependiendo del tamaño y coloración física.  </div>
+  <div style="width: 48px; height: 48px; padding-top: 4px; padding-bottom: 4px; padding-left: 4px; padding-right: 4.63px; left: 278px; top: 729px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div style="width: 39.37px; height: 40px; border: 4px #B2AFCC solid"></div>
+  </div>
+  <div style="width: 48px; height: 48px; padding-top: 4px; padding-bottom: 4px; padding-left: 4.63px; padding-right: 4px; left: 156px; top: 734px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div style="width: 39.37px; height: 40px; border: 4px #B2AFCC solid"></div>
+  </div>
+  <div style="width: 48px; height: 48px; padding-left: 6px; padding-right: 6px; padding-top: 4px; padding-bottom: 4px; left: 34px; top: 734px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div style="width: 36px; height: 40px; border: 4px #B2AFCC solid"></div>
+  </div>
+  <img style="width: 280px; height: 189px; left: 40px; top: 120px; position: absolute" src="https://via.placeholder.com/280x189" />
+</div>
+<div style="width: 360px; height: 800px; position: relative; background: white">
+  <div style="width: 360px; height: 68px; padding-left: 4px; padding-right: 4px; padding-top: 8px; padding-bottom: 8px; left: 0px; top: 0px; position: absolute; background: #B4DADB; justify-content: flex-start; align-items: center; gap: 6px; display: inline-flex">
+    <div style="width: 48px; height: 48px; flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+      <div style="border-radius: 100px; overflow: hidden; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+        <div style="padding: 8px; justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="width: 24px; height: 24px; padding-left: 3px; padding-right: 3px; padding-top: 6px; padding-bottom: 6px; justify-content: center; align-items: center; display: flex">
+            <div style="width: 18px; height: 12px; background: #1D1B20"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="flex: 1 1 0; text-align: center; color: #1D1B20; font-size: 22px; font-family: Roboto; font-weight: 400; line-height: 28px; word-wrap: break-word">AquaVisor</div>
+    <div style="width: 48px; height: 48px; flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+      <div style="border-radius: 100px; overflow: hidden; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+        <div style="padding: 8px; justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="width: 24px; height: 24px; padding: 2px; justify-content: center; align-items: center; display: flex">
+            <div style="width: 20px; height: 20px; background: #49454F"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 333px; height: 373px; left: 19px; top: 361px; position: absolute; text-align: justify; color: black; font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 20px; letter-spacing: 0.10px; word-wrap: break-word">Nombre Científico: Gobius niger<br/><br/>El gobio negro, es una especie de peces de la familia de los Gobiidae en el orden de los Perciformes.  <br/><br/>Tamaño: Los adultos suelen medir entre 10 y 18 cm de longitud, aunque algunos pueden alcanzar hasta 24 cm.  <br/><br/>Cuerpo: Tienen un cuerpo alargado y algo comprimido lateralmente. La cabeza es grande en proporción al cuerpo, con ojos prominentes situados en la parte superior de la cabeza.   <br/><br/>Color: Su color varía del gris oscuro al negro, con un patrón de manchas y rayas irregulares en su cuerpo. </div>
+  <div style="width: 48px; height: 48px; padding-top: 4px; padding-bottom: 4px; padding-left: 4px; padding-right: 4.63px; left: 278px; top: 729px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div style="width: 39.37px; height: 40px; border: 4px #B2AFCC solid"></div>
+  </div>
+  <div style="width: 48px; height: 48px; padding-top: 4px; padding-bottom: 4px; padding-left: 4.63px; padding-right: 4px; left: 156px; top: 734px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div style="width: 39.37px; height: 40px; border: 4px #B2AFCC solid"></div>
+  </div>
+  <div style="width: 48px; height: 48px; padding-left: 6px; padding-right: 6px; padding-top: 4px; padding-bottom: 4px; left: 34px; top: 734px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div style="width: 36px; height: 40px; border: 4px #B2AFCC solid"></div>
+  </div>
+  <img style="width: 280px; height: 199.73px; left: 40px; top: 115px; position: absolute" src="https://via.placeholder.com/280x200" />
+</div>
